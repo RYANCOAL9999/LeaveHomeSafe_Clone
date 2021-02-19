@@ -1,0 +1,6 @@
+module Pods_LeaveHomeSafeClone_LeaveHomeSafeCloneTests {
+  umbrella header "Pods-LeaveHomeSafeClone-LeaveHomeSafeCloneTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
